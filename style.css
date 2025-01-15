@@ -1,0 +1,255 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 22px 0;
+    display: flex;
+
+    justify-content: center;
+}
+
+.header-box {
+    display: flex;
+    max-width: 1024px;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.Products-box {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.Services {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+}
+
+.button-div {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.Log {
+    display: flex;
+    padding: 10px 14px;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    font-size: 14px;
+    background: #FFF;
+}
+
+.Sign {
+    display: flex;
+    padding: 10px 14px;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    border-radius: 8px;
+    color: #FFF;
+    font-size: 14px;
+    background: #7F56D9;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    margin-top: 96px;
+}
+
+.main-container {
+    max-width: 1024px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 96px;
+}
+
+.beautiful {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.team {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.dashboard {
+    display: flex;
+    padding: 8px 12px 8px 8px;
+    align-items: center;
+    gap: 12px;
+    border-radius: 10px;
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+}
+
+.analytics {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 60px;
+}
+
+.growth {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    max-width: 768px;
+}
+
+.play-div {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.play-circle {
+    display: flex;
+    padding: 16px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 10px;
+    border: 1px solid #D5D7DA;
+
+    background: #FFF;
+}
+
+.circle {
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 18px;
+    display: flex;
+    padding: 16px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 10px;
+    background: #7F56D9;
+}
+
+.like-div {
+    display: flex;
+    width: 1024px;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.like {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    align-items: center;
+}
+
+.Feat {
+    color: #6941C6;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.feels {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+}
+
+.Trusted {
+    color: #535862;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+}
+
+.message-container {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.message-div {
+    display: flex;
+    min-width: 320px;
+    padding: 12px 24px;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.chat {
+    display: flex;
+    justify-content: center;
+}
+
+.keep {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.loop {
+    color: #535862;
+    max-width: 272px;
+    width: 100%;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+}
+
+.of {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.vector {
+    display: flex;
+}
+
+.victor {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
